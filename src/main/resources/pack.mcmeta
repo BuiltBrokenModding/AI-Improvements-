@@ -1,6 +1,10 @@
 {
-    "pack": {
-        "description": "Resources & data for AI-Improvements",
-        "pack_format": 15
-    }
+  "pack": {
+    "description": "Resources & data for AI-Improvements",
+    "pack_format": 32,
+    "supported_formats": [
+      0,
+      2147483647
+    ]
+  }
 }
